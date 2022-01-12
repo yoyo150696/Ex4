@@ -24,3 +24,11 @@ this class has 3 properties. the first one is src. the second one is dest. the l
 
 ## video
 ![](https://im3.ezgif.com/tmp/ezgif-3-160954bcd4.gif)
+
+## how to run
+clone/download the zip folder of thid git page.
+extract the folder and open him with python.
+enter to terminal and write the command "java -jar Ex4_Server_v0.0.jar <'enter the num of case that you want to run the project on it(0-15)'>
+go to client_python and run main.py.
+:))))
+
