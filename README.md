@@ -3,3 +3,4 @@
 ## Game Description-
 the game recieve a graph with a list of pokemons and agents that are on the edges of the graph,the main goal is that the agents need to achieve the much posibble pokemons in less time and moves.
 ## 
+ pygame.window.2022-01-12.22-01-46.mp4
