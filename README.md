@@ -21,9 +21,10 @@ this class has 3 properties. the first one is ID. the second one is pos. the las
 ### edges
 this class has 3 properties. the first one is src. the second one is dest. the last one is w that represent the weight of the edge.
 
+![ezgif-5-a1dd1aaf03](https://user-images.githubusercontent.com/70186612/149310046-d5c60568-27ff-4b91-83b9-f091fb7f3647.gif)
 
 ## video
-![](https://im3.ezgif.com/tmp/ezgif-3-160954bcd4.gif)
+![ezgif-5-a1dd1aaf03](https://user-images.githubusercontent.com/70186612/149310046-d5c60568-27ff-4b91-83b9-f091fb7f3647.gif)
 
 ## how to run
 clone/download the zip folder of thid git page.
